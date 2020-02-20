@@ -1,0 +1,17 @@
+C:\Users\Саша\source\repos\LAB_8\bin\Debug\LAB_8.exe.config
+C:\Users\Саша\source\repos\LAB_8\bin\Debug\LAB_8.exe
+C:\Users\Саша\source\repos\LAB_8\bin\Debug\LAB_8.pdb
+C:\Users\Саша\source\repos\LAB_8\bin\Debug\ru\LAB_8.resources.dll
+C:\Users\Саша\source\repos\LAB_8\obj\Debug\LAB_8.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\LAB_8\obj\Debug\LAB_8.Properties.Resources.resources
+C:\Users\Саша\source\repos\LAB_8\obj\Debug\LAB_8.csproj.GenerateResource.cache
+C:\Users\Саша\source\repos\LAB_8\obj\Debug\ru\LAB_8.resources.dll
+C:\Users\Саша\source\repos\LAB_8\obj\Debug\LAB_8.exe
+C:\Users\Саша\source\repos\LAB_8\obj\Debug\LAB_8.pdb
+C:\Users\Саша\source\repos\LAB_8\obj\Debug\LAB_8.AddClientForm.resources
+C:\Users\Саша\source\repos\LAB_8\obj\Debug\LAB_8.MainForm.resources
+C:\Users\Саша\source\repos\LAB_8\obj\Debug\LAB_8.MainForm.ru.resources
+C:\Users\Саша\source\repos\LAB_8\obj\Debug\LAB_8.EditClientForm.resources
+C:\Users\Саша\source\repos\LAB_8\obj\Debug\LAB_8.GetIDForm.resources
+C:\Users\Саша\source\repos\LAB_8\obj\Debug\LAB_8.SortedForm.resources
+C:\Users\Саша\source\repos\LAB_8\obj\Debug\LAB_8.TopCreditForm.resources
